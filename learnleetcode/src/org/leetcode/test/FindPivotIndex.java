@@ -2,7 +2,7 @@ package org.leetcode.test;
 
 /**
  * 
- * @author Brian Day2 time:Oct 28, 2018 - 10:42:16 AM FindPrivotIndex
+ * @author Brian Day3 time:Oct 28, 2018 - 10:42:16 AM FindPrivotIndex
  *
  */
 public class FindPivotIndex {
