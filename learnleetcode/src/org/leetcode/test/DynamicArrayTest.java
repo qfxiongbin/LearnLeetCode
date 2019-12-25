@@ -16,6 +16,7 @@ public class DynamicArrayTest<T> {
 		// 1. initialize
 		List<Integer> v0 = new ArrayList<Integer>();
 		List<Integer> v1;
+		//"ceshiceshiceshi "
 		// 2. cast an array to a vector
 		Integer [] a = {0,1,2,3,4};
 		v1 = new ArrayList<>(Arrays.asList(a));
