@@ -30,7 +30,7 @@ public class ArrayTest {
 		for(int i = 0; i < a1.length; i++) {
 			System.out.print(" "+a1[i]);
 		}
-		
+		System.out.println("dddd");
 		System.out.println();
 		// 5. Modify Element
 		a1[0] = 4;
